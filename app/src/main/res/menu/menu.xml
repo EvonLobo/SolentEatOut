@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_a_restaurant"
+        android:title="@string/add_a_restaurant" />
+    <!--menu option to save all restaurants to a file-->
+    <item
+        android:id="@+id/save_all_restaurants"
+        android:title="@string/save_all_restaurants" />
+    <item
+        android:id="@+id/preferences"
+        android:title="Preferences" />
+    <item
+        android:id="@+id/load_all_restaurants"
+        android:title="Load All Restaurants"/>
+</menu>
